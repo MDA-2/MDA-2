@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎁 I’m currently learning Full-Stack developent
+- 🎁 I’m currently studying Full-Stack developent
 - ❤ I love drawing, learning things, space and hanging out with friends
 - 📫 How to reach me:
   - MDA3208@protonmail.com
